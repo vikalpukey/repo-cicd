@@ -5,7 +5,7 @@
   <groupId>com.abm.training</groupId>
   <artifactId>cicd-webapp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>cicd-webapp</name>
   <url>http://maven.apache.org</url>
